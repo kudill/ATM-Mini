@@ -1,4 +1,4 @@
-# ATM-Mini
+# ATM-Mini-Sederhana
 Project UAS Dasar Pemrograman Semester 1
 
 Membuat program mini ATM sederhana dengan python
@@ -12,9 +12,9 @@ untuk mengedit informasi rekening nasabah silahkan edit file database.py
 
 ---- Tim ----
 
-Dhiya Ulhaq Prima Yuga
-Aar Lazuardi Majid
-Fadhil Gani
-Bajsan Arsyurrohman
-Muhammad Rai Akmal
+- Dhiya Ulhaq Prima Yuga
+- Aar Lazuardi Majid
+- Fadhil Gani
+- Bajsan Arsyurrohman
+- Muhammad Rai Akmal
 
